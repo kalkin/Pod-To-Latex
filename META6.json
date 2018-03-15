@@ -12,7 +12,7 @@
   "provides" : {
     "Pod::To::Latex" : "lib/Pod/To/Latex.pm6"
   },
-  "version" : "0.0.1",
+  "version" : "0.1.0",
   "meta-version" : "0",
   "authors" : [
     "Bahtiar `kalkin-` Gadimov"
