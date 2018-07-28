@@ -205,6 +205,14 @@ xelatex Some-File.tex
 xpdf Some-File.pdf
 =end code
 
+=head1 Installing Dependencies
+
+=head2 Fedora
+
+=begin code
+sudo dnf install texlive-xetex-bin texlive-koma-script.noarch texlive-listings.noarch texlive-euenc
+=end code
+
 =head1 TODO
 
 =item Improve Perl 6 syntax highlighting.

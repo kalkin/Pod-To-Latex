@@ -24,6 +24,14 @@ You will need to have `xelatex`, `KOMA-Script` & `listing` package installed
 
     xpdf Some-File.pdf
 
+Installing Dependencies
+=======================
+
+Fedora
+------
+
+    sudo dnf install texlive-xetex-bin texlive-koma-script.noarch texlive-listings.noarch texlive-euenc
+
 TODO
 ====
 
