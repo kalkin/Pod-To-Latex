@@ -1,8 +1,9 @@
 {
   "name" : "Pod::To::Latex",
-  "source-url" : "",
+  "source-url" : "https://github.com/kalkin/Pod-To-Latex.git",
   "support" : {
-    "source" : null
+    "source" : "https://github.com/kalkin/Pod-To-Latex.git",
+    "bugtracker": "https://github.com/kalkin/Pod-To-Latex/issues"
   },
   "perl" : "6.c",
   "license" : "GPL-3.0",
@@ -12,7 +13,7 @@
   "provides" : {
     "Pod::To::Latex" : "lib/Pod/To/Latex.pm6"
   },
-  "version" : "0.1.0",
+  "version" : "0.1.1",
   "meta-version" : "0",
   "authors" : [
     "Bahtiar `kalkin-` Gadimov"
